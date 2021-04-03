@@ -1,0 +1,23 @@
+  __                                                                 
+ /\ \  __                                     __                          
+ \_\ \/\_\    ___ ___      __    ___     ____/\_\    ___     ___        
+ /'_` \/\ \ /' __` __`\  /'__`\/' _ `\  /',__\/\ \  / __`\ /' _ `\  
+/\ \L\ \ \ \/\ \/\ \/\ \/\  __//\ \/\ \/\__, `\ \ \/\ \L\ \/\ \/\ \ 
+\ \___,_\ \_\ \_\ \_\ \_\ \____\ \_\ \_\/\____/\ \_\ \____/\ \_\ \_\
+ \/__,_ /\/_/\/_/\/_/\/_/\/____/\/_/\/_/\/___/  \/_/\/___/  \/_/\/_/
+                                         Established 1997... sort of
+
+dimension.sh is a small public linux shell host (or pubnix system) that is
+open to anyone who wants to learn, experiment, and socialize with other
+like minded people.
+
+We take the name from dimension.spodnet.uk.com, which was a collection of
+mixed Unix hosts ran at a UK college from 1997 to 2004. fifteen years after
+the shutdown of the system we decided to start again, with newer updated
+Linux and access to cheap resources.
+
+0HISTORY	history.txt
+1USERS	users/
+0SERVICES	services.txt
+0RULES	rules.txt
+hJOIN	URL:https://dimension.sh/join.html	
