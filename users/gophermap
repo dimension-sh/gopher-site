@@ -14,7 +14,7 @@ def main(output=sys.stdout):
         output.write("1~{username}\t/~{username}/\tdimension.sh\t70\n".format(**user))
 
     output.write("\n\nTotal Users: %d\n" % len(data['users']))
-    output.write("\nUsers can be excluded from this list by creating a '.hidden' file in their public_html folder.")
+    output.write("\nUsers can be excluded from this list by creating a '.hidden' file\nin their public_html folder.")
     output.write("\r\n")
 
 
