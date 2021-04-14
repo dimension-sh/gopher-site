@@ -16,5 +16,5 @@ jobs:
           key: ${{ secrets.DIMENSION_DEPLOYMENT_SSH_KEY }}
           port: 22
           script: |
-            cd /var/gemini/
+            cd /var/gopher/
             sudo git pull
