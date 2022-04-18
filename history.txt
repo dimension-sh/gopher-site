@@ -42,5 +42,5 @@ Inspired by tildeverse and our previous experience with dimension mark I & II we
 decided to create a new home following the same ideals; just a bunch of people
 having fun with access to shared resources.
 
-dimension mark III came alive on 26th June 2020, running CentOS 8, and was open
-to new members on the 3rd July 2020.
+dimension mark III came alive on 26th June 2020, running CentOS 8 at Digital
+Ocean UK, and was open to new members on the 3rd July 2020.
